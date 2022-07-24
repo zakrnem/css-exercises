@@ -1,0 +1,25 @@
+.odd {
+    background-color: rgb(220, 129, 136);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+}
+
+.cool {
+    font-size: 50px;
+}
+
+div {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#blue {
+    color: rgb(0,0,255);
+    font-size: 36px;
+    font-weight: bold;
+}
+
+#green {
+    background-color: rgb(164, 238, 164);
+    font-size: 24px;
+    font-weight: bold;
+}
