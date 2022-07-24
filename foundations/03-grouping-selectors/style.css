@@ -1,0 +1,13 @@
+.do, .dont {
+    font-size: 28px;
+    font-family: helvetica, "Times New Roman", sans-serif;
+}
+
+.do {
+    background-color: rgb(81, 42, 180);
+    color: #ffffff;
+}
+
+.dont {
+    background-color: rgb(28, 221, 28);
+}
